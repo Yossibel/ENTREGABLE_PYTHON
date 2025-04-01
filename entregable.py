@@ -73,4 +73,3 @@ precio_max_categoria = df.groupby("Categoria")["precio de venta S/"].max()
 print("\nPrecio máximo por categoría:")
 print(precio_max_categoria)
 
-# 
